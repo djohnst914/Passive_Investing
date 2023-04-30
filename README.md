@@ -67,7 +67,11 @@ If Voilà successfully installed, voila and its version number will display in y
 
 https://user-images.githubusercontent.com/123714457/235335141-594e8069-ef22-4040-a8c4-cf2560e0b592.mp4
 
-
+1. In your terminal, cd to the directory where this repository was cloned/downloaded 
+2. Enter 'pwd' - displays the complete path to the current directory
+3. Copy path, enter 'voila', then paste and enter path
+4. After the web page screen loads, select file 'etf_analyzer.ipynb'
+5. You are now on the main application web page!
 
 ---
 
