@@ -86,6 +86,9 @@ https://user-images.githubusercontent.com/123714457/235335141-594e8069-ef22-4040
 ---
 
 ## *Credits*
+- [Disabling Scientific Notation w/ HoverTool](https://discourse.holoviz.org/t/how-to-disable-scientific-notation-in-bar-plots-and-in-fact-all-plots/1307)
+- [Compress Video](https://clideo.com/compress-video)
+
 For any questions/concerns, anything at all feel free to contact below
 - Dylan Johnston
 - Email: dylanhjjohnston@gmail.com
