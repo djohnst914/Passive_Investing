@@ -25,7 +25,7 @@ If you don't have Python, Jupyter Lab, or Anaconda installed on your operating s
 
 -**[Install Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html)**
 
-The SQLAlchemy library should have installed on your computer as part of the Anaconda download. To confirm that SQLAlchemy is installed in your Conda dev environment, open a terminal window, and then complete the following steps:
+The SQLAlchemy library should have installed on your computer as part of the Anaconda download. To confirm that SQLAlchemy is installed in your Conda 'dev' environment, open a terminal window, and then complete the following steps:
 
 1. In your terminal, activate your Conda 'dev' environment before checking for installation:
     
@@ -57,7 +57,7 @@ With Voilà, a Python library, you can convert a Jupyter notebook into a live we
 3. Confirm that the installation succeeded by running the following command:
 
         conda list voila
-If Voilà successfully installed, voila and its version number will display in your terminal window, as the following image shows: 
+If Voilà successfully installed, voilà and its version number will display in your terminal window, as the following image shows: 
 
 <img width="520" alt="Screenshot 2023-04-29 at 4 30 00 PM" src="https://user-images.githubusercontent.com/123714457/235328187-4bda82d6-d786-44f4-b781-d9e7e0da9adb.png">
 
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/123714457/235335141-594e8069-ef22-4040
 2. Enter 'pwd' - displays the complete path to the current directory
 3. Copy path, enter 'voila', then paste and enter path
 4. After the web page screen loads, select file 'etf_analyzer.ipynb'
-5. You are now on the main application web page!
+5. Voilà! You are now on the main application web page
 
 ---
 
